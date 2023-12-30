@@ -3756,8 +3756,8 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
-			#nav {
-				display: none;
+			#nav ul.icons{
+				display: flex !important;
 			}
 
 		}
